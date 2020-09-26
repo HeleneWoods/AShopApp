@@ -2,6 +2,14 @@
 
 > 这是vue+vant+node+mongoDB+express的移动端电商网站实战项目
 
+实现功能：
+* 搜索框
+* 商品分类
+* 商品详情
+* 加入购物车、购物车结算
+* 登录、注册
+* 权限管理
+
 ## Build Setup
 
 ``` bash
